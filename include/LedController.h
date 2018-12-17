@@ -3,7 +3,7 @@
 
 #include <map>
 #include "config.h"
-#include "effects/effect.h"
+#include "effects/Effect.h"
 
 class LedController
 {
