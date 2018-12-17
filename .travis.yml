@@ -35,8 +35,6 @@
 
  install:
      - pip install -U platformio
-     - platformio lib -g install FastLED
-     - platformio lib -g install PubSubClient
      - platformio update
 
  script:
